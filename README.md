@@ -78,10 +78,10 @@ This project requires the following Python packages:
   
   1. Clone the repository:
      ```bash
-     git clone https://github.com/Shazid18/Scrap_Trip.com.git
+     git clone https://github.com/Shazid18/Scrapy_LLM.git
      ```
      ```bash
-     cd Scrap_Trip.com
+     cd Scrapy_LLM
      ```
   
   2. Set up a virtual environment:
@@ -101,7 +101,7 @@ This project requires the following Python packages:
      
   5. Run Docker:
      ```bash
-     cd Scrapy_v2
+     cd Scrapy_V2
      ```
      ```bash
      docker-compose up --build
